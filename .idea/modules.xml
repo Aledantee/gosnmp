@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/go-snmp.iml" filepath="$PROJECT_DIR$/.idea/go-snmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gosnmp.iml" filepath="$PROJECT_DIR$/.idea/gosnmp.iml" />
     </modules>
   </component>
 </project>

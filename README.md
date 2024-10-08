@@ -1,2 +1,2 @@
-# Go-SNMP
+# GoSNMP
 An SNMP library for Go programs.
