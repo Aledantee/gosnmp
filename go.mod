@@ -1,1 +1,1 @@
-module go-snmp
+module github.com/Aledantee/gosnmp
